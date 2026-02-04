@@ -1,4 +1,3 @@
-# Password_analyser
 # 🔐 Password Analyzer
 
 Password Analyzer is a simple Python project that checks how strong a password is and helps users understand whether their password is secure or not.  
@@ -72,34 +71,60 @@ Output:
 <img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/40ed482f-741b-4912-bf51-10a1f5a423bb" />
 
 
-🔐 Password strength criteria
 
-A password is considered strong if it:
-Has at least 8 characters
-Includes uppercase and lowercase letters
-Includes numbers
-Includes special characters
-Is not a commonly used password
-Has high entropy
 
-⚠️ Limitations
+#🔐 Password strength criteria
 
-Passwords are not stored anywhere
-No online breach database is used
-Command-line interface only
+-> A password is considered strong if it:
 
-🔮 Future improvements
+-> Has at least 8 characters
 
-Add a graphical user interface (GUI)
-Add a password generator
-Check passwords against data breaches
-Convert this into a web application
-Add password hashing support
+-> Includes uppercase and lowercase letters
 
-📚 What I learned
+-> Includes numbers
 
-Basics of password security
-How entropy affects password strength
-Using regular expressions in Python
-Writing clean and readable Python code
-Structuring a project for GitHub
+-> Includes special characters
+
+-> Is not a commonly used password
+
+-> It Has high entropy
+
+
+---
+#⚠️ Limitations
+
+-> Passwords are not stored anywhere
+
+-> No online breach database is used
+
+-> Command-line interface only
+
+---
+
+#🔮 Future improvements
+
+-> Add a graphical user interface (GUI)
+
+-> Add a password generator
+
+-> Check passwords against data breaches
+
+-> Convert this into a web application
+
+-> Add password hashing support
+
+---
+
+#📚 What I learned
+
+-> Basics of password security
+
+-> How entropy affects password strength
+
+-> Using regular expressions in Python
+
+-> Writing clean and readable Python code
+
+-> Structuring a project for GitHub
+
+---

@@ -11,6 +11,7 @@ This project was built as part of learning **cybersecurity basics and secure cod
 ## 📌 Why this project?
 
 Weak passwords are one of the most common reasons for security breaches.  
+
 Many users still use short or predictable passwords like `123456` or `password`.
 
 The goal of this project is to:

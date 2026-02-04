@@ -1,6 +1,7 @@
 # 🔐 Password Analyzer
 
 Password Analyzer is a simple Python project that checks how strong a password is and helps users understand whether their password is secure or not.  
+
 It analyzes the password based on length, character complexity, entropy, and whether it appears in a list of commonly used passwords.
 
 This project was built as part of learning **cybersecurity basics and secure coding practices**.
